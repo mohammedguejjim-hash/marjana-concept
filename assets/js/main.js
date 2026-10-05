@@ -1,4 +1,4 @@
-// Terrasse Marjana — concept homepage interactions
+// Nour Rooftop — concept homepage interactions
 (function(){
   'use strict';
 
